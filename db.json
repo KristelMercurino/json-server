@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nombre": "Programación de base de datos",
+      "Seccion": "004D",
+      "Jornada": "Diurna",
+      "Horario": "7",
+      "Profesor": "Jesus Parra"
+    },
+    {
+      "id": 2,
+      "nombre": "Arquitectura de Software",
+      "Seccion": "005D",
+      "Jornada": "Vespertina",
+      "Horario": "8",
+      "Profesor": "Hernan Saavedra"
+    },
+    {
+      "id": 3,
+      "nombre": "Ingenieria de Software",
+      "Seccion": "005D",
+      "Jornada": "Diurna",
+      "Horario": "8",
+      "Profesor": "Carolina Vial"
+    },
+    {
+      "id": 4,
+      "nombre": "Programación de algoritmos",
+      "Seccion": "005D",
+      "Jornada": "Diurna",
+      "Horario": "6",
+      "Profesor": "Yaravi Villegas"
+    },
+    {
+      "id": 5,
+      "nombre": "Diseño de Prototipos",
+      "Seccion": "007D",
+      "Jornada": "Diurna",
+      "Horario": "9",
+      "Profesor": "René Calquin"
+    }
+  ],
+  "posts": [
+    {
+      "id": 113,
+      "title": "asdsa",
+      "body": "asdsa",
+      "userId": 4
+    },
+    {
+      "id": 114,
+      "title": "MAT05",
+      "body": "13:45",
+      "userId": 2
+    },
+    {
+      "id": 115,
+      "title": "ssss",
+      "body": "asssd",
+      "userId": 4
+    },
+    {
+      "id": 116,
+      "title": "Estudiar",
+      "body": "15:00",
+      "userId": 1
+    }
+  ]
+}
